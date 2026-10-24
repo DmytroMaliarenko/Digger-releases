@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "channel": "prerelease",
+  "platform": "Windows-x64",
+  "artifact": "Digger-v0.1.0-Windows-x64.zip",
+  "bytes": 42198216,
+  "sha256": "58df09fa3e463b23c083667b5266b9c1187a6e41555d55cf124d8bd5479c0c0c",
+  "sourceRepository": "DmytroMaliarenko/Digger",
+  "sourceCommit": "7bd02ac35d822fee8040ba2cf6442fe7e222f0ec",
+  "sourceTag": "v0.1.0",
+  "unityVersion": "6000.6.3f1",
+  "builtAtUtc": "2026-10-24T00:52:21.2828762Z",
+  "validation": {
+    "buildErrors": 0,
+    "buildWarnings": 0,
+    "smoke": {
+      "seed": 73519,
+      "rooms": 14,
+      "passages": 16,
+      "floorSamples": 438,
+      "floorFailures": 0,
+      "unsupportedMaterials": 0,
+      "triangles": 95577,
+      "generationSeconds": 1.725579023361206,
+      "campVisible": true,
+      "shrineVisible": true,
+      "passed": true
+    }
+  }
+}
