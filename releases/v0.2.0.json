@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "version": "0.2.0",
+  "windows": "https://github.com/DmytroMaliarenko/Digger-releases/releases/download/v0.2.0/Digger-Windows.zip",
+  "tag": "v0.2.0",
+  "channel": "release",
+  "platform": "Windows-x64",
+  "artifact": "Digger-Windows.zip",
+  "bytes": 42198708,
+  "sha256": "62d7938e75b9122c9b08f888afc50d303f5225d6b13048b1248aebb6bb0bd16c",
+  "sourceRepository": "DmytroMaliarenko/Digger",
+  "sourceCommit": "47300d94955cd483963a43d226f464011b6d59ff",
+  "sourceTag": "v0.2.0",
+  "unityVersion": "6000.6.3f1",
+  "builtAtUtc": "2026-10-24T01:36:33.654997Z",
+  "validation": {
+    "buildErrors": 0,
+    "smoke": {
+      "seed": 73519,
+      "rooms": 14,
+      "passages": 16,
+      "floorSamples": 810,
+      "floorFailures": 0,
+      "unsupportedMaterials": 0,
+      "triangles": 197714,
+      "generationSeconds": 1.0733847618103027,
+      "campVisible": true,
+      "shrineVisible": true,
+      "hallVisible": true,
+      "traversalPassed": true,
+      "passed": true
+    },
+    "buildWarnings": 0
+  }
+}
